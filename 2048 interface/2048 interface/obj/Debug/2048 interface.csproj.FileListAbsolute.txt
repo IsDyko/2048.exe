@@ -1,0 +1,15 @@
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\2048 interface.csproj.AssemblyReference.cache
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\_2048_interface.Properties.Resources.resources
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\2048 interface.csproj.GenerateResource.cache
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\2048 interface.csproj.CoreCompileInputs.cache
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\bin\Debug\2048 interface.exe.config
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\bin\Debug\2048 interface.exe
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\bin\Debug\2048 interface.pdb
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\2048 interface.exe
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\2048 interface.pdb
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\_2048WindowsForms.Form1.resources
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\bin\Debug\6os.gif
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\bin\Debug\2048 interface.exe.manifest
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\bin\Debug\2048 interface.application
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\2048 interface.exe.manifest
+C:\Users\diogo.goncalves\source\repos\2048 interface\2048 interface\obj\Debug\2048 interface.application
